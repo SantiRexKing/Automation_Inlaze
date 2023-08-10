@@ -1,0 +1,12 @@
+The automation of tests on "Betatesting_QA_Test" using Cypress.io was successfully implemented.
+
+The "users.json" file was used as a separate data source from the test code, enabling better organization and maintenance of test data.
+
+In conclusion, test automation with Cypress.io proved to be an effective choice for conducting tests on "Betatesting_QA_Test", allowing early error detection and ensuring software quality.
+
+
+Se logró exitosamente implementar la automatización de pruebas en "Betatesting_QA_Test" utilizando Cypress.io.
+
+El archivo "usuarios.json" fue utilizado como una fuente de datos separada del código de prueba, lo cual facilitó la organización y el mantenimiento de los datos de prueba.
+
+En resumen, la automatización de pruebas con Cypress.io resultó ser una opción efectiva para realizar pruebas en "Betatesting_QA_Test", permitiendo detectar errores de manera temprana y garantizar la calidad del software.
