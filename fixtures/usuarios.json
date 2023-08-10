@@ -1,0 +1,26 @@
+{
+    "usuario": "estecordo23@hotma.do",
+    "contrasena" : "usuario y/o contraseña incorrecta!",
+
+    "name" : "Esteban",
+    "lastname" : "Cordoba",
+    "email" : "estecordo23@hotma.do",
+    "pass" : "EsteBans123$",
+    "passRepeat" : "EsteBans123$",
+
+    "invalid_name" : "&&&&",
+    "lastname_empty" : " ",
+    "invalid_email" : "estecordo23&hotma,do",
+    "invalid_pass" : "xxxx",
+    "invalid_passR" : "xxxxx",
+
+    "pass1" : "EsteB123$",
+    "pass2" : "Estebans123$",
+    "pass3" : "ESTEBANS123$",
+    "pass4" : "EsteBans$",
+    "pass5" : "EsteBans123",
+    "pass6" : "esteb"
+
+
+
+}
